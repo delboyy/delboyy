@@ -18,6 +18,10 @@
 
 ## Projects
 
+### 🎮 Games & Autonomous AI
+
+- 🥊 **[BotLeague](https://github.com/delboyy/botleague-studio)**: an AI studio that keeps redesigning its own physics ragdoll brawler. An LLM designer invents arenas, modes and hazards; an outside judge that the designer can't touch plays every change with bots and keeps it or rolls it back. Every kept change is a git commit (280+ generations so far), and the studio films its own "AI builds a game, Day N" series. TypeScript · Bun · Rapier · Three.js · Blender
+
 ### 🛠️ AI Tools & Apps
 
 - ⚡ **[Context Actions for Mac](https://github.com/delboyy/context-actions-mac)** — AI-powered text actions for macOS — highlight text, press a hotkey, get instant AI results inline
