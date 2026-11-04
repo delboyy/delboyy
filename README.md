@@ -24,7 +24,7 @@
 
 ### 🛠️ AI Tools & Apps
 
-- ⚡ **[Context Actions for Mac](https://github.com/delboyy/context-actions-mac)** — AI-powered text actions for macOS — highlight text, press a hotkey, get instant AI results inline
+- ✍️ **[Gist](https://github.com/delboyy/gist)**: AI writing help in most Mac apps. Select text, press ⌘⇧A, tell it what you want ("write a reply saying it's fixed") and replace it in place. Free on-device AI or your own key, no usage analytics. Live at [gistapp.io](https://gistapp.io) · Swift · SwiftUI · Cloudflare Workers
 - 🧹 **[Smelt](https://github.com/delboyy/smelt)** — AI-powered universal data cleaning — raw data in, pure data out
 - ✂️ **[Screenshot Redactor](https://github.com/delboyy/screenshot-redactor)** — Privacy-first, client-side manual redaction tool — no uploads, no servers
 - 📄 **[Docs OCR](https://github.com/delboyy/docs-ocr)** — Document OCR pipeline
