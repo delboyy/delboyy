@@ -32,6 +32,7 @@
 
 ### ⚙️ Automation & AI Pipelines
 
+- 💧 **[Business Leaks Studio](https://github.com/delboyy/lowpoly)** — A team of AI agents that researches, writes, fact-checks, renders (Remotion, low-poly style) and schedules short-form explainer videos and carousels about where small businesses lose money. Runs the Business Leaks Instagram and YouTube channels
 - 🎵 **[Autonomous TikTok Pipeline](https://github.com/delboyy/autonomous-tiktok-pipeline)** — Full end-to-end pipeline: script generation, visuals (free art APIs + fal.ai clips), Fish Audio TTS, Paperclip orchestration
 - 🛡️ **[Whop Moderation Shield](https://github.com/delboyy/whop-moderation-shield)** — AI-powered chat moderation for Whop, Telegram & Discord
 - 🎬 **[AltHistory YouTube Automation](https://github.com/delboyy/Youtube--althistory-automation)** — End-to-end scripts for running a faceless YouTube channel
